@@ -1,0 +1,61 @@
+{
+  "R": {
+    "Version": "4.1.0",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Packages": {
+    "shiny": {
+      "Package": "shiny",
+      "Version": "1.7.1",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    },
+    "gbm": {
+      "Package": "gbm",
+      "Version": "2.1.8",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "3.3.5",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    },
+    "plotly": {
+      "Package": "plotly",
+      "Version": "4.10.0",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    },
+    "reshape2": {
+      "Package": "reshape2",
+      "Version": "1.4.4",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    },
+    "data.table": {
+      "Package": "data.table",
+      "Version": "1.14.2",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.0.7",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    },
+    "caret": {
+      "Package": "caret",
+      "Version": "6.0-90",
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org"
+    }
+  }
+}
